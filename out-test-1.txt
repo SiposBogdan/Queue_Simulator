@@ -1,0 +1,109 @@
+
+Time: 0
+Waiting clients: (3,3,8)(2,6,5)(0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 1
+Waiting clients: (3,3,8)(2,6,5)(0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 2
+Waiting clients: (3,3,8)(2,6,5)(0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 3
+Waiting clients: (2,6,5)(0,16,2)(1,18,2)
+Queue 0: [(3,3,8)]
+Queue 1: closed
+
+Time: 4
+Waiting clients: (2,6,5)(0,16,2)(1,18,2)
+Queue 0: [(3,3,7)]
+Queue 1: closed
+
+Time: 5
+Waiting clients: (2,6,5)(0,16,2)(1,18,2)
+Queue 0: [(3,3,6)]
+Queue 1: closed
+
+Time: 6
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: [(3,3,5)]
+Queue 1: [(2,6,5)]
+
+Time: 7
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: [(3,3,4)]
+Queue 1: [(2,6,4)]
+
+Time: 8
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: [(3,3,3)]
+Queue 1: [(2,6,3)]
+
+Time: 9
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: [(3,3,2)]
+Queue 1: [(2,6,2)]
+
+Time: 10
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: [(3,3,1)]
+Queue 1: [(2,6,1)]
+
+Time: 11
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 12
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 13
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 14
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 15
+Waiting clients: (0,16,2)(1,18,2)
+Queue 0: closed
+Queue 1: closed
+
+Time: 16
+Waiting clients: (1,18,2)
+Queue 0: [(0,16,2)]
+Queue 1: closed
+
+Time: 17
+Waiting clients: (1,18,2)
+Queue 0: [(0,16,1)]
+Queue 1: closed
+
+Time: 18
+Waiting clients:
+Queue 0: closed
+Queue 1: [(1,18,2)]
+
+Time: 19
+Waiting clients:
+Queue 0: closed
+Queue 1: [(1,18,1)]
+
+Time: 20
+Waiting clients:
+Queue 0: closed
+Queue 1: closed
+
+Average waiting time: 0.0
+Peak hour: 6
+Average service time: 4.25
